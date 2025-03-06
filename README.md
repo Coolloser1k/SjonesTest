@@ -1,1 +1,1 @@
-# SjonesTest
+Initializing Repository and Code Practice
